@@ -12,7 +12,7 @@
 | 2    | Muss            | Funktional   | Als ein Besucher kann ich Noten hinzufügen und den Notenschnitt sehen. |
 | 3    | Muss            | Funktional   | Als ein Besucher habe ich Zugriff auf relevante Links zur Kantibaden. |
 | 4    | Muss            | Funktional   | Als ein Besucher kann ich alle Einträge löschen. |
-| 5    | Kann            | Qualitativ   | Als ein Besucher kann ich Darkmode/Lightmode toggeln. |
+| 5    | Kann            | Qualitativ   | Als ein Besucher kann ich Darkmode/Lightmode togglen. |
 
 
 
@@ -29,11 +29,11 @@
 | 1.4             | Der Besucher fügt einen Prüfungstermin in der Liste ein.                                          | Klick auf "Hinzufügen".                                           | Neue Prüfungstermin wird im Menü angezeigt.                                  |
 | 2.1             | Der Besucher fügt eine Note ein.                    | Klick auf "+" Schaltfläche im Noten-Menü. | Dialog zur Erstellung wird angezeigt. |
 | 2.2             | Der Besucher gibt Name, Fach und Note ein.                      | Klick auf Textinput.                      | Tastatur wird geöffnet.     |
-| 2.3             | Der Besucher gibt eine ungültige Note ein.                               | Textinput ausserhalb 1 - 6 Spektrum                                           | Fehlermeldung wird angezeigt.                                           |
+| 2.3             | Der Besucher gibt eine ungültige Note ein.                               | Zahlinput ausserhalb 1 - 6 Spektrum.                                           | Fehlermeldung wird angezeigt.                                           |
 | 2.4             | Der Besucher fügt eine Note in der Liste ein.                                          | Klick auf "Hinzufügen".                                           | Neue Note wird im Menü angezeigt, alle vorhandene Noten werden berechnet, Gesamtdurchschnitt wird angezeigt.                                  |
-| 3.1             | Der Besucher öffnet Links.                                          | Klick auf die Schaltflächen im Links-Menü                                           | Browser mit dem entsprechenden Link wird geöffnet.                                  |
-| 4.1             | Der Besucher konvertiert/komprimiert/dekomprimiert eine existierende Output                                          | Klick auf Aktion                                           | Fehlermeldung wird angezeigt.                                  |
-| 4.2             | Der Besucher konvertiert/komprimiert/dekomprimiert eine ungültige Datei                                          | Klick auf Aktion                                           | Fehlermeldung wird angezeigt.                                  |
+| 3.1             | Der Besucher öffnet Links.                                          | Klick auf die Schaltflächen im Links-Menü.                                           | Browser mit dem entsprechenden Link wird geöffnet.                                  |
+| 4.1             | Der Besucher togglet zu Darkmode/Lightmode.                                          | Klick auf Darkmode-Schalter im Einstellungen-Menü.                                           | Entsprechende Theme wird geändert.                                  |
+| 5.1             | Der Besucher löscht alle bisherige Einträge.                                          | Klick auf "Alle Einträge löschen" im Einstellungen-Menü                                           | Liste der Prüfungstermine und Noteneinträge werden gelöscht.                                  |
 
 
 ## 2 Planen
@@ -85,12 +85,12 @@ Keine
 | 1.3        | OK       | Raviraj | 12.01.2024|
 | 1.4        | OK       | Raviraj | 12.01.2024|
 | 2.1        | OK       | Raviraj | 12.01.2024|
+| 2.2        | OK       | Raviraj | 12.01.2024|
+| 2.3        | OK       | Raviraj | 12.01.2024|
+| 2.4        | OK       | Raviraj | 12.01.2024|
 | 3.1        | OK       | Raviraj | 12.01.2024|
-| 3.2        | OK       | Raviraj | 12.01.2024|
-| 3.3        | OK       | Raviraj | 12.01.2024|
-| 3.4        | OK       | Raviraj | 12.01.2024|
 | 4.1        | OK       | Raviraj | 12.01.2024|
-| 4.2        | OK       | Raviraj | 12.01.2024|
+| 5.1        | NOK       | Raviraj | 12.01.2024|
 
 
 
