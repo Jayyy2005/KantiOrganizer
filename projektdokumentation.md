@@ -7,11 +7,12 @@
 
 | US-№ | Verbindlichkeit | Art          | Beschreibung                                                       |
 | ---- | --------------- | ------------ | ------------------------------------------------------------------|
-| 0    | Muss            | Funktional   | Als ein Besucher muss ich in der Lage sein, das Programm zu öffnen. |
-| 1    | Muss            | Funktional   | Als ein Besucher kann ich Dateien komprimieren. |
-| 2    | Muss            | Funktional   | Als ein Besucher kann ich Dateien dekomprimieren. |
-| 3    | Muss            | Funktional   | Als ein Besucher kann ich Videos in MP3-Format konvertieren. |
-| 4    | Muss            | Qualitativ   | Als ein Besucher kann ich Fehlermeldungen einsehen. |
+| 0    | Muss            | Funktional   | Als ein Besucher muss ich in der Lage sein, das APK zu öffnen. |
+| 1    | Muss            | Funktional   | Als ein Besucher kann ich Prüfungstermine erstellen. |
+| 2    | Muss            | Funktional   | Als ein Besucher kann ich Noten hinzufügen und den Notenschnitt sehen. |
+| 3    | Muss            | Funktional   | Als ein Besucher habe ich Zugriff auf relevante Links zur Kantibaden. |
+| 4    | Muss            | Funktional   | Als ein Besucher kann ich alle Einträge löschen. |
+| 5    | Kann            | Qualitativ   | Als ein Besucher kann ich Darkmode/Lightmode toggeln. |
 
 
 
