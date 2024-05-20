@@ -40,12 +40,12 @@
 | AP-№ | Zuständig | Beschreibung                            | Geplante Zeit | Frist        |
 | ---- | --------- | --------------------------------------- | ------------- | ------------ |
 | 0.0  | Raviraj   | Erstellung der Projektdokumentation    | 2 Stunden     | 19.01.2024   |
-| 1.A  | Raviraj   | Design und Umsetzung der Startseite     | 4 Stunden     | 19.01.2024   |
-| 1.B  | Raviraj   | Design und Umsetzung der Komprimierung-Seite  | 4 Stunden | 26.01.2024   |
-| 1.C  | Raviraj   | Design und Umsetzung der Konvertierung-Seite | 4 Stunden | 02.02.2024   |
-| 2.A  | Raviraj   | Library für MP3-Konvertierung | 2 Stunden | 02.02.2024   |
-| 3.A  | Raviraj   | Try-Catch Funktion        | 4 Stunden     | 23.02.2024   |
-| 3.B  | Raviraj   | Zusammenführung von Skripts    | 2 Stunden     | 23.02.2024   |
+| 1.A  | Raviraj   | Design und Umsetzung des Kalender-Menü     | 6 Stunden     | 19.01.2024   |
+| 1.B  | Raviraj   | Design und Umsetzung des Noten-Menü  | 6 Stunden | 26.01.2024   |
+| 1.C  | Raviraj   | Design und Umsetzung des Links-Menü | 4 Stunden | 02.02.2024   |
+| 1.D  | Raviraj   | Design und Umsetzung des Einstellungen-Menü | 4 Stunden | 02.02.2024   |
+| 2.A  | Raviraj   | Darkmode-Funktion        | 2 Stunden     | 23.02.2024   |
+| 3.A  | Raviraj   | Funktion, um alle Einträge zu löschen    | 2 Stunden     | 23.02.2024   |
 | 4.A  | Raviraj   | Erstellung eines Portfolioeintrags       | 2 Stunden     | 01.03.2024   |
 
 
@@ -60,13 +60,13 @@ Keine
 | AP-№ | Zuständig | Geplante Zeit | Tatsächliche Zeit | Datum      |
 | ---- | --------- | ------------- | ----------------- | ---------- |
 | 0.0  | Raviraj   | 2 Stunden      | 2 Stunden         | 19.01.2024 |
-| 1.A  | Raviraj   | 4 Stunden      | 4 Stunden        | 19.01.2024 |
-| 1.B  | Raviraj   | 4 Stunden      | 4 Stunden         | 26.01.2024 |
+| 1.A  | Raviraj   | 6 Stunden      | 4 Stunden        | 19.01.2024 |
+| 1.B  | Raviraj   | 6 Stunden      | 4 Stunden         | 26.01.2024 |
 | 1.C  | Raviraj   | 4 Stunden      | 5 Stunden         | 02.02.2024 |
-| 2.A  | Raviraj   | 2 Stunden      | 1 Stunden         | 02.02.2024 |
-| 3.A  | Raviraj   | 4 Stunden      | 4 Stunden         | 23.02.2024 |
-| 3.B  | Raviraj   | 2 Stunden      | 3 Stunden         | 23.02.2024 |
-| 4.A  | Raviraj   | 2 Stunden      | 2 Stunde          | 01.03.2024 |
+| 1.D  | Raviraj   | 4 Stunden      | 1 Stunden         | 02.02.2024 |
+| 2.A  | Raviraj   | 2 Stunden      | 4 Stunden         | 23.02.2024 |
+| 3.A  | Raviraj   | 2 Stunden      | 3 Stunden         | 23.02.2024 |
+| 4.A  | Raviraj   | 2 Stunden      | 2 Stunden          | 01.03.2024 |
 
 
 
