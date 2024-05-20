@@ -39,14 +39,14 @@
 
 | AP-№ | Zuständig | Beschreibung                            | Geplante Zeit | Frist        |
 | ---- | --------- | --------------------------------------- | ------------- | ------------ |
-| 0.0  | Raviraj   | Erstellung der Projektdokumentation    | 2 Stunden     | 19.01.2024   |
-| 1.A  | Raviraj   | Design und Umsetzung des Kalender-Menü     | 6 Stunden     | 19.01.2024   |
-| 1.B  | Raviraj   | Design und Umsetzung des Noten-Menü  | 6 Stunden | 26.01.2024   |
-| 1.C  | Raviraj   | Design und Umsetzung des Links-Menü | 4 Stunden | 02.02.2024   |
-| 1.D  | Raviraj   | Design und Umsetzung des Einstellungen-Menü | 4 Stunden | 02.02.2024   |
+| 0.0  | Raviraj   | Erstellung der Projektdokumentation    | 2 Stunden     | 22.12.2023   |
+| 1.A  | Raviraj   | Design und Umsetzung des Kalender-Menü     | 6 Stunden     | 22.12.2023   |
+| 1.B  | Raviraj   | Design und Umsetzung des Noten-Menü  | 6 Stunden | 22.12.2023   |
+| 1.C  | Raviraj   | Design und Umsetzung des Links-Menü | 4 Stunden | 22.12.2023   |
+| 1.D  | Raviraj   | Design und Umsetzung des Einstellungen-Menü | 4 Stunden | 22.12.2023   |
 | 2.A  | Raviraj   | Darkmode-Funktion        | 2 Stunden     | 23.02.2024   |
-| 3.A  | Raviraj   | Funktion, um alle Einträge zu löschen    | 2 Stunden     | 23.02.2024   |
-| 4.A  | Raviraj   | Erstellung eines Portfolioeintrags       | 2 Stunden     | 01.03.2024   |
+| 3.A  | Raviraj   | Funktion, um alle Einträge zu löschen    | 2 Stunden     | 22.12.2023   |
+| 4.A  | Raviraj   | Erstellung eines Portfolioeintrags       | 2 Stunden     | 22.12.2023   |
 
 
 
@@ -59,14 +59,14 @@ Keine
 
 | AP-№ | Zuständig | Geplante Zeit | Tatsächliche Zeit | Datum      |
 | ---- | --------- | ------------- | ----------------- | ---------- |
-| 0.0  | Raviraj   | 2 Stunden      | 2 Stunden         | 19.01.2024 |
-| 1.A  | Raviraj   | 6 Stunden      | 4 Stunden        | 19.01.2024 |
-| 1.B  | Raviraj   | 6 Stunden      | 4 Stunden         | 26.01.2024 |
-| 1.C  | Raviraj   | 4 Stunden      | 5 Stunden         | 02.02.2024 |
-| 1.D  | Raviraj   | 4 Stunden      | 1 Stunden         | 02.02.2024 |
-| 2.A  | Raviraj   | 2 Stunden      | 4 Stunden         | 23.02.2024 |
-| 3.A  | Raviraj   | 2 Stunden      | 3 Stunden         | 23.02.2024 |
-| 4.A  | Raviraj   | 2 Stunden      | 2 Stunden          | 01.03.2024 |
+| 0.0  | Raviraj   | 2 Stunden      | 2 Stunden         | 10.11.2023 |
+| 1.A  | Raviraj   | 6 Stunden      | 10 Stunden        | 10.11.2023 |
+| 1.B  | Raviraj   | 6 Stunden      | 8 Stunden         | 17.11.2023 |
+| 1.C  | Raviraj   | 4 Stunden      | 2 Stunden         | 24.11.2023 |
+| 1.D  | Raviraj   | 4 Stunden      | 2 Stunden         | 01.12.2023 |
+| 2.A  | Raviraj   | 2 Stunden      | 4 Stunden         | 08.12.2023 |
+| 3.A  | Raviraj   | 2 Stunden      | 6 Stunden         | 15.12.2023 |
+| 4.A  | Raviraj   | 2 Stunden      | 2 Stunden          | 22.12.2023 |
 
 
 
@@ -77,19 +77,19 @@ Keine
 
 | Testfall-№ | Resultat | Tester  | Datum     |
 | -----------| ---------| --------| ----------|
-| 0.1        | OK       | Raviraj | 01.03.2024|
-| 0.2        | OK       | Raviraj | 01.03.2024|
-| 1.1        | OK       | Raviraj | 01.03.2024|
-| 1.2        | OK       | Raviraj | 01.03.2024|
-| 1.3        | OK       | Raviraj | 01.03.2024|
-| 1.4        | OK       | Raviraj | 01.03.2024|
-| 2.1        | OK       | Raviraj | 01.03.2024|
-| 3.1        | OK       | Raviraj | 01.03.2024|
-| 3.2        | OK       | Raviraj | 01.03.2024|
-| 3.3        | OK       | Raviraj | 01.03.2024|
-| 3.4        | OK       | Raviraj | 01.03.2024|
-| 4.1        | OK       | Raviraj | 01.03.2024|
-| 4.2        | OK       | Raviraj | 01.03.2024|
+| 0.1        | OK       | Raviraj | 12.01.2024|
+| 0.2        | OK       | Raviraj | 12.01.2024|
+| 1.1        | OK       | Raviraj | 12.01.2024|
+| 1.2        | OK       | Raviraj | 12.01.2024|
+| 1.3        | OK       | Raviraj | 12.01.2024|
+| 1.4        | OK       | Raviraj | 12.01.2024|
+| 2.1        | OK       | Raviraj | 12.01.2024|
+| 3.1        | OK       | Raviraj | 12.01.2024|
+| 3.2        | OK       | Raviraj | 12.01.2024|
+| 3.3        | OK       | Raviraj | 12.01.2024|
+| 3.4        | OK       | Raviraj | 12.01.2024|
+| 4.1        | OK       | Raviraj | 12.01.2024|
+| 4.2        | OK       | Raviraj | 12.01.2024|
 
 
 
