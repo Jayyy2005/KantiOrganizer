@@ -21,17 +21,17 @@
 
 | Testfall-Nummer | Ausgangslage                                                                  | Eingabe                                  | Erwartete Ausgabe                                                     |
 | --------------- | ----------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------- |
-| 0.1             | Der Besucher öffnet das Programm.                      | Programm öffnen.    | Startseite des Programmes wird geöffnet.    |
-| 0.2             | Der Besucher klickt auf die Schaltflächen, um die entsprechende Windows zu wechseln.                    | Klick auf die Schaltflächen "Zurück".                 | Entsprechende Funktionalitäten werden gewechselt.                 |
-| 1.1             | Der Besucher wechselt zu "Komprimieren".                    | Schaltfläche "Komprimieren" vom Homescreen klicken. | Window für Komprimieren wird geöffnet. |
-| 1.2             | Der Besucher wählt eine Datei.                      | Klick auf "Datei auswählen".                      | Windows Explorer wird geöffnet, um eine Datei auszuwählen.     |
-| 1.3             | Der Besucher entfernt Auswahl eines Datei.                               | Klick auf "Auswahl entfernen".                                           | Kein Datei wurde gewählt.                                           |
-| 1.4             | Der Besucher komprimiert.                                          | Klick auf "Komprimieren".                                           | Ausgewählte Dateien werden komprimiert.                                  |
-| 2.1             | Der Besucher dekomprimiert.               | Klick auf "Dekomprimieren".     | Ausgewählte ZIP-Datei wird dekomprimiert.     |
-| 3.1             | Der Besucher wechselt zu "MP3-Konvertierung". | Schaltfläche "MP3-Konvertierung" vom Homescreen klicken.         | Window für MP3-Konvertierung wird geöffnet.          |
-| 3.2             | Der Besucher wählt eine Video-Datei.                      | Klick auf "Datei auswählen".                      | Windows Explorer wird geöffnet, um eine Datei auszuwählen.     |
-| 3.3             | Der Besucher entfernt Auswahl eines Video-Datei.                               | Klick auf "Auswahl entfernen".                                           | Kein Datei wurde gewählt.                                           |
-| 3.4             | Der Besucher konvertiert.                                          | Klick auf "Konvertiere zu MP3!".                                           | Ausgewählte Video-Dateien werden zu MP3-Format konvertiert.                                  |
+| 0.1             | Der Besucher öffnet das Programm.                      | Programm öffnen.    | Kalendermenü wird angezeigt.    |
+| 0.2             | Der Besucher wechselt zwischen Menüs.                    | Klick auf die Schaltflächen der Navigationsbar                 | Entsprechende Menü wird gewechselt.                 |
+| 1.1             | Der Besucher erstellt einen Prüfungstermin.                    | Klick auf "+" Schaltfläche im Kalender-Menü. | Dialog zur Erstellung wird angezeigt. |
+| 1.2             | Der Besucher gibt Name und Fach ein.                      | Klick auf Textinput.                      | Tastatur wird geöffnet.     |
+| 1.3             | Der Besucher wählt Datum aus.                               | Klick auf "Datum auswählen".                                           | Kalenderdialog wird geöffnet.                                           |
+| 1.4             | Der Besucher fügt einen Prüfungstermin in der Liste ein.                                          | Klick auf "Hinzufügen".                                           | Neue Prüfungstermin wird im Menü angezeigt.                                  |
+| 2.1             | Der Besucher fügt eine Note ein.                    | Klick auf "+" Schaltfläche im Noten-Menü. | Dialog zur Erstellung wird angezeigt. |
+| 2.2             | Der Besucher gibt Name, Fach und Note ein.                      | Klick auf Textinput.                      | Tastatur wird geöffnet.     |
+| 2.3             | Der Besucher gibt eine ungültige Note ein.                               | Textinput ausserhalb 1 - 6 Spektrum                                           | Fehlermeldung wird angezeigt.                                           |
+| 2.4             | Der Besucher fügt eine Note in der Liste ein.                                          | Klick auf "Hinzufügen".                                           | Neue Note wird im Menü angezeigt, alle vorhandene Noten werden berechnet, Gesamtdurchschnitt wird angezeigt.                                  |
+| 3.1             | Der Besucher öffnet Links.                                          | Klick auf die Schaltflächen im Links-Menü                                           | Browser mit dem entsprechenden Link wird geöffnet.                                  |
 | 4.1             | Der Besucher konvertiert/komprimiert/dekomprimiert eine existierende Output                                          | Klick auf Aktion                                           | Fehlermeldung wird angezeigt.                                  |
 | 4.2             | Der Besucher konvertiert/komprimiert/dekomprimiert eine ungültige Datei                                          | Klick auf Aktion                                           | Fehlermeldung wird angezeigt.                                  |
 
