@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">KantiOrganizer</string>
+    <string name="title_calendar">Schulkalender</string>
+    <string name="title_grades">Noten</string>
+    <string name="title_links">Links</string>
+
+    <!-- Standardübersetzungen für Schaltflächenbeschriftungen -->
+    <string name="schulnetz">Schulnetz</string>
+    <string name="intranet">Intranet</string>
+    <string name="schulwebseite">Schulwebseite</string>
+    <string name="schuldrucker">Schuldrucker</string>
+    <string name="ticketsystem">Ticketsystem</string>
+
+    <string name="name_hint">Name</string>
+    <string name="date_hint">Datum</string>
+    <string name="subject_hint">Fach</string>
+    <string name="add_event_button_label">Termin hinzufügen</string>
+    <string name="add_event">Termin hinzufügen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="select_date">Datum auswählen</string>
+
+    <string name="exam_name">Prüfungsname</string>
+    <string name="subject">Fach</string>
+    <string name="invalid_grade">Ungültige Note. Bitte geben Sie eine Note zwischen 1 und 6 ein.</string>
+    <string name="add_grade">Note hinzufügen</string>
+    <string name="error">Fehler</string>
+    <string name="ok">OK</string>
+    <string name="grade">Note</string>
+    <string name="average_grade_placeholder">Durchschnittsnote: %1$.2f</string>
+    <string name="add_grade_button_label">Note hinzufügen</string>
+    <string name="average_grade">Durchschnittsnote: %.2f</string>
+
+    <string name="dark_mode">Dunkler Modus</string>
+    <string name="delete_all_data">Alle Einträge löschen</string>
+    <string name="app_info">App-Informationen</string>
+    <string name="created_by">Erstellt von Sanjay Raviraj</string>
+    <string name="title_settings">Einstellungen</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/title_calendar" />
+
+    <item
+        android:id="@+id/navigation_grades"
+        android:icon="@drawable/ic_grades"
+        android:title="@string/title_grades" />
+
+    <item
+        android:id="@+id/navigation_links"
+        android:icon="@drawable/ic_links"
+        android:title="@string/title_links" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+
+</menu>
