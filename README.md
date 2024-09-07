@@ -1,1 +1,1 @@
-# LA1302
+# LA1302 - Android School Organizer App
